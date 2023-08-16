@@ -1,0 +1,13 @@
+{
+    "name": "com.cm.utility.unity",
+    "displayName": "CM Utility Unity",
+    "version": "0.1.0",
+    "unity": "2021.2",
+    "author": "Casper Meloen",
+    "description": "CM Utility is a Unity package that extends classes and adds reusable methods.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/empireboy/com.cm.utility.unity.git",
+        "revision": ""
+    }
+}
